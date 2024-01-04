@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wander</string>
+    <string name="facebook_app_id">238399694862585</string>
+    <string name="fb_login_protocol_scheme">fb238399694862585</string>
+
+    <!-- [android] facebook_app_id -->
+    <!-- [android] fb_login_protocol_scheme -->
+</resources>
